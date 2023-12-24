@@ -1,0 +1,36 @@
+ Histoires d'utilisateurs pour l'application de gestion de projet
+
+**Président:**
+
+
+En tant que président, je veux pouvoir gérer la liste des membres, y compris l'ajout, la modification et la suppression de membres.** * **En tant que président, je veux pouvoir attribuer des rôles et des permissions aux membres, afin de pouvoir déléguer des tâches et des responsabilités de manière efficace.
+* En tant que président, je veux pouvoir assigner des rôles et des permissions aux membres, afin de pouvoir déléguer des tâches et des responsabilités de manière efficace.
+* En tant que président, je veux pouvoir créer de nouvelles activités et de nouveaux événements, en spécifiant des détails tels que les dates, le budget et les participants.
+* En tant que président, je veux pouvoir assigner des tâches aux membres pour des activités spécifiques, afin de m'assurer que tout le monde contribue à leur succès.
+* En tant que président, je veux pouvoir suivre l'avancement des tâches et des activités, en identifiant tout problème ou retard potentiel.
+* En tant que président, je veux pouvoir gérer le budget de l'association et suivre les coûts associés aux activités et aux événements.
+* En tant que président, je veux être en mesure de planifier et de diriger des réunions, de gérer les ordres du jour et de prendre des notes pour référence ultérieure.
+* En tant que président, je veux pouvoir envoyer des annonces et communiquer avec les membres au sujet des mises à jour et des décisions importantes.
+
+**Membres:**
+
+* En tant que membre, je veux pouvoir m'inscrire à l'association en fournissant mes informations, afin de pouvoir participer à ses activités.
+* En tant que membre, je veux pouvoir mettre à jour mes informations personnelles, telles que mon adresse ou mon numéro de téléphone, afin que mes données soient exactes.
+* En tant que membre, je souhaite pouvoir consulter la liste des activités à venir et leurs détails, afin de voir ce qui se passe et de planifier en conséquence.
+En tant que membre, je veux pouvoir m'inscrire à des activités et à des événements, afin de pouvoir participer et contribuer à l'association.** * **En tant que membre, je veux pouvoir m'inscrire à des activités et à des événements, afin de pouvoir participer et contribuer à l'association.**
+* En tant que membre, je veux pouvoir voir les tâches assignées pour des activités spécifiques, afin de comprendre mes responsabilités et de contribuer efficacement.
+* En tant que membre, je veux pouvoir marquer les tâches comme étant terminées, afin de suivre mes progrès et de m'assurer que les activités sont couronnées de succès.
+En tant que membre, je veux pouvoir consulter mes cotisations et mon historique, afin de comprendre ma contribution financière et de m'assurer qu'elle est à jour.** * **En tant que membre, je veux pouvoir consulter mes cotisations et mon historique, afin de comprendre ma contribution financière et de m'assurer qu'elle est à jour.**
+* En tant que membre, je veux pouvoir consulter les notes de réunion et les annonces, afin de rester informé des décisions et des mises à jour de l'association.
+
+**Trésorier:**
+
+* En tant que trésorier, je veux pouvoir gérer les finances de l'association, y compris le suivi des revenus et des dépenses.
+* En tant que trésorier, je veux être en mesure de collecter les cotisations des membres et d'enregistrer les paiements, afin d'assurer la stabilité financière.
+* En tant que trésorier, je veux être en mesure de produire des rapports sur les activités financières et les budgets, afin d'assurer la transparence et la responsabilité.
+En tant que trésorier, je veux être en mesure de gérer les dons reçus par l'association et de les affecter à des fins appropriées.** * **En tant que trésorier, je veux être en mesure de gérer les dons reçus par l'association et de les affecter à des fins appropriées.**
+* En tant que trésorier, je veux pouvoir collaborer avec le président pour planifier des activités et des événements dans le respect des contraintes budgétaires.
+
+Il ne s'agit que de quelques exemples, et vous pouvez les développer ou ajouter de nouvelles histoires d'utilisateurs en fonction des exigences et des fonctionnalités spécifiques de votre projet. N'oubliez pas de hiérarchiser les besoins des utilisateurs et de veiller à ce que l'application réponde aux différents rôles des utilisateurs et à leurs responsabilités au sein de l'association.
+
+J'espère que cela vous donnera un bon point de départ pour rédiger des histoires d'utilisateurs pour votre projet !
