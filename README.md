@@ -1,4 +1,23 @@
 # Gestion-Management
+Projet 3:   << Analyse de projet :  Elaborer une application adapter aux besoins d'un client >>
+ 
+Approche: La finalité d'une application est de répondre aux besoins du client. Pour atteindre cet objectif, il est important de se mettre à l'écoute du client afin de relever les objectifs, les contraintes, les aspects de l'application. 
+ 
+Objectifs: 
+ 
+ 
+UML (diagramme de cas d'utilisation, diagramme d'activité, diagramme de classe, users stories, ...).
+Design d'application (Maquettes d'interface, prototype)
+Gestion de projet  (Agile, Trello, ...)
+Objectifs: 
+Livrables: 
+Diagrammes de classe 
+Diagrammes de cas d'utilisation
+Users stories
+Wireframes 
+Tableau de bord de gestion de projet Agile 
+Présentation de votre approche, solution (Pourquoi votre approche et non celle d'une autre personne )
+
 Aperçu du projet : Application de gestion d'association
 
 L'application de gestion d'association est une solution complète conçue pour rationaliser et optimiser les opérations d'une association. Conçue pour répondre aux divers besoins de gestion des membres, des activités, des finances et des réunions, cette application offre une plateforme centralisée pour une gestion organisationnelle efficace.
