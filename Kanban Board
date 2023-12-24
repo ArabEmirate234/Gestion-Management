@@ -1,0 +1,46 @@
+Kanban Board pour l'application mobile de gestion d'association
+ Voici un exemple de tableau Kanban pour le projet d'application mobile de gestion d'association avec plus de détails :
+Backlog  :
+
+- Modèle de données 
+  - Définir entités Membre, Activité, Tâche, Cotisation, etc.
+  - Définir associations
+- Interface membre
+  - Page d'inscription
+  - Page de profil
+  - Page mes activités
+  - Page mes tâches
+  - Page mes cotisations
+- Interface président
+  - Page gestion des membres
+  - Page gestion des activités
+  - Page gestion des tâches
+  - Page gestion des réunions
+- Interface trésorier
+  - Page gestion des cotisations
+  - Page gestion du budget
+  
+En cours :
+
+- Modèle de données 
+  - Entités Membre et Activité implémentées (Jean)
+- Interface membre
+  - Maquette page profil terminée (Marie)
+  - Développement page profil en cours (Jean)
+
+En test :
+
+- Interface membre
+  - Page inscription prête pour tests (Jean)
+
+Terminé:
+
+- Modèle de données
+  - Diagramme de classes finalisé (Jean)
+- Interface membre
+  - Maquette page inscription validée (Marie)
+
+Bloqué:
+
+- Interface président
+  - Page gestion des réunions bloquée, en attente de la classe Réunion (Jean)
